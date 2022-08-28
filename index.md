@@ -1,6 +1,6 @@
 # Alimzhan's First CS193 Homework
 
-My favorite things in CS193
+My favorite things about CS193
 
 -  Cool teachers
 -  Fun lectures
